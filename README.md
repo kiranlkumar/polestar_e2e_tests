@@ -16,9 +16,12 @@ Resource:
 1. Node: https://nodejs.org/en/download
 2. VS Code: https://code.visualstudio.com/
 3. Execution: run below command
-   git clone
-   npm install
-   npm run test
+
+   git clone https://github.com/kiranlkumar/polestar_e2e_tests.git   <to checkout the code>
+
+   npm install    < to install dependencies >
+
+   npm run test   < to run tests in parallel >
    
    
 
